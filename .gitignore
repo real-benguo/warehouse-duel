@@ -1,0 +1,12 @@
+# 开发产物，不进仓库
+tools/shots/
+tools/preview/
+
+# Blender 备份文件
+*.blend1
+*.blend2
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
